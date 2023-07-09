@@ -1,6 +1,8 @@
 # COMPUTER-GRAPHICS
 This repository contains the work done during the course on computer graphics using OpenGl/GLFW in c++.
 
+## Final Project: Cube rubik with solver and animation 
+
 ## Authors
 
 * **Harold Alejandro Villanueva Borda** - *San Pablo Catholic University* 
