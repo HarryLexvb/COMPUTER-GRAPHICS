@@ -62,5 +62,5 @@ We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you 
 
 - Solver and disolver
   
-![1](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/b76c6084-33e9-43b9-9b7b-ca433ea2534b.mp4) 
+![solver](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/6717f7f2-abc9-450f-bcd2-5a3663bdcdbb)
 
