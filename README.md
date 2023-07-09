@@ -64,3 +64,14 @@ We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you 
   
 ![solver](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/6717f7f2-abc9-450f-bcd2-5a3663bdcdbb)
 
+- Snake animation 
+
+![animation1](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/bce24576-39f5-42b5-8102-2e4da07911c2)
+
+- Expansion animation
+
+![animation3](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/9ad55f36-6b08-4001-9c23-8a276b687f80)
+
+## Warning
+
+This project has been implemented using visual studio code in its portable version in addition to using windows as operating system. It is also important to note that visual studio code portable is being run from a usb where I store the necessary dependencies, the c++ compiler and the project. 
