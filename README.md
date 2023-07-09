@@ -58,3 +58,8 @@ We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you 
 | RIGHT | Move right  |
 | MOUSE | Change camera position  |
 
+## Demo 
+
+- Solver and disolver
+![1](https://github.com/HarryLexvb/COMPUTER-GRAPHICS/assets/74415056/b76c6084-33e9-43b9-9b7b-ca433ea2534b)
+
